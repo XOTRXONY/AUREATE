@@ -1,8 +1,9 @@
 Project introduction
 A hub of summation
 Currently supported
-1.westward
+1. westward
 2. Tide
+3. be deeply rooted
 You can go through the loading
 ```lua
 -- west
